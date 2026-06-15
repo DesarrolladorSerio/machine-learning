@@ -1,0 +1,15 @@
+# Dataset and large zip files
+UCI HAR Dataset/
+UCI HAR Dataset.zip
+__MACOSX/
+
+# Jupyter Notebook checkpoints and caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
