@@ -1,15 +1,24 @@
 # Dataset and large zip files
 UCI HAR Dataset/
 UCI HAR Dataset.zip
+har_dataset.zip
 __MACOSX/
+*.names
+
+# Test output images
+test_output_*.png
 
 # Jupyter Notebook checkpoints and caches
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
 
+# Temporary fix scripts
+fix_*.py
+
 # IDEs and OS files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+.gemini/
